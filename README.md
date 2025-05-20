@@ -25,7 +25,7 @@ Customize the button's appearance in theme-toggle.css.
 Add your own CSS variables in [data-theme="light"] or [data-theme="dark"] to style your site.
 
 Demo
-(im working it that!)
+https://d-jays-web-demo.glitch.me
 
 
 Created by Djay. Check out my work at djaysspace.carrd.co.
