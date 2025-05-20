@@ -1,6 +1,6 @@
 Dark/Light Mode Toggle
-A lightweight, reusable JavaScript module to add a dark/light mode toggle to any website, with persistent user preferences using localStorage. Made by Djay :3
-Features
+A lightweight, reusable JavaScript module to add a dark/light mode toggle to any website, with persistent user preferences using localStorage. 
+
 
 Toggle between dark and light themes with a button.
 Saves user preference in localStorage.
